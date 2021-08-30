@@ -1,0 +1,2 @@
+# nimtoolforfun
+nim practice
