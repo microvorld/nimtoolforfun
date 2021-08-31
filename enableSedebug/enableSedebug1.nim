@@ -2,8 +2,6 @@ when not defined(c):
     {.error: "Must be compiled in c mode"}
 
 {.emit: """
-// Author: Mr.Un1k0d3r RingZer0 Team
-// slightly modified to use with Nim
 
 
 #include <Windows.h>
